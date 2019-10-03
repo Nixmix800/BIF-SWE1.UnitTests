@@ -1,0 +1,11 @@
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.UnitTests\obj\Debug\BIF-SWE1.UnitTests.csprojAssemblyReference.cache
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.UnitTests\obj\Debug\BIF-SWE1.UnitTests.csproj.CoreCompileInputs.cache
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.UnitTests\obj\Debug\BIF-SWE1.UnitTests.csproj.CopyComplete
+D:\FH\BIF3\SWE\NUnit3.TestAdapter.dll
+D:\FH\BIF3\SWE\NUnit3.TestAdapter.pdb
+D:\FH\BIF3\SWE\nunit.engine.dll
+D:\FH\BIF3\SWE\nunit.engine.api.dll
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.UnitTests\obj\Debug\BIF-SWE1.UnitTests.dll
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.UnitTests\obj\Debug\BIF-SWE1.UnitTests.pdb
+D:\FH\BIF3\SWE\BIF-SWE1.UnitTests.dll
+D:\FH\BIF3\SWE\BIF-SWE1.UnitTests.pdb

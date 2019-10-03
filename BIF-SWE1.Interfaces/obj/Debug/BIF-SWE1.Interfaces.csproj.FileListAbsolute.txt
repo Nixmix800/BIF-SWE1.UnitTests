@@ -1,0 +1,6 @@
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.Interfaces\bin\Debug\BIF-SWE1.Interfaces.dll
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.Interfaces\bin\Debug\BIF-SWE1.Interfaces.pdb
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.Interfaces\obj\Debug\BIF-SWE1.Interfaces.csprojAssemblyReference.cache
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.Interfaces\obj\Debug\BIF-SWE1.Interfaces.csproj.CoreCompileInputs.cache
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.Interfaces\obj\Debug\BIF-SWE1.Interfaces.dll
+D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.Interfaces\obj\Debug\BIF-SWE1.Interfaces.pdb

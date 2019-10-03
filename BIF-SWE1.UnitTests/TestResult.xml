@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="0" result="Failed" label="Invalid" total="0" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.10.0.0" clr-version="4.0.30319.42000" start-time="2019-10-01 16:11:28Z" end-time="2019-10-01 16:11:29Z" duration="0.464366">
+  <command-line><![CDATA[D:\FH\BIF3\SWE\BIF-SWE1\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit3-console.exe BIF-SWE1.UnitTests.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1" name="BIF-SWE1.UnitTests.dll" fullname="D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.UnitTests\BIF-SWE1.UnitTests.dll" testcasecount="0" runstate="NotRunnable" result="Failed" label="Invalid">
+    <properties>
+      <property name="_SKIPREASON" value="File not found: D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.UnitTests\BIF-SWE1.UnitTests.dll" />
+    </properties>
+    <reason>
+      <message>File not found: D:\FH\BIF3\SWE\BIF-SWE1\BIF-SWE1.UnitTests\BIF-SWE1.UnitTests.dll</message>
+    </reason>
+  </test-suite>
+</test-run>

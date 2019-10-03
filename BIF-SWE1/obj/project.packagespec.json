@@ -1,0 +1,86 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\FH\\BIF3\\SWE\\BIF-SWE1\\BIF-SWE1\\BIF-SWE1.csproj",
+    "projectName": "BIF-SWE1",
+    "projectPath": "D:\\FH\\BIF3\\SWE\\BIF-SWE1\\BIF-SWE1\\BIF-SWE1.csproj",
+    "outputPath": "D:\\FH\\BIF3\\SWE\\BIF-SWE1\\BIF-SWE1\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "D:\\FH\\BIF3\\SWE\\BIF-SWE1\\BIF-SWE1.Interfaces\\BIF-SWE1.Interfaces.csproj": {
+            "projectPath": "D:\\FH\\BIF3\\SWE\\BIF-SWE1\\BIF-SWE1.Interfaces\\BIF-SWE1.Interfaces.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "GitForWindows": {
+          "target": "Package",
+          "version": "[2.23.0, )"
+        },
+        "Microsoft.NETCore.Platforms": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.0.0-preview3.19128.7, )",
+          "autoReferenced": true
+        },
+        "Microsoft.WindowsDesktop.App": {
+          "include": "None",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.0.0-preview3-27504-2, )",
+          "autoReferenced": true
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.12.0, )"
+        },
+        "NUnit.Console": {
+          "target": "Package",
+          "version": "[3.10.0, )"
+        },
+        "NUnit.ConsoleRunner": {
+          "target": "Package",
+          "version": "[3.10.0, )"
+        },
+        "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": {
+          "include": "None",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.0.0-preview3-27503-5, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
